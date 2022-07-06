@@ -30,3 +30,4 @@ make repl
 ## References
 
 1. A book, [Clojure For The Breave And True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+2. A tutorial, [Learn clojure in X minutes](https://learnxinyminutes.com/docs/clojure/)
